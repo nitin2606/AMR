@@ -1,7 +1,7 @@
 
 
 # Autonomous Mobile Robot project
-It is a nice (and time-consuming for me) robot which uses SLAM (ROS) with a Kinect to navigate in its environment. It is powered by ROS running on a Raspberry Pi 4B and an Arduino that controls two motors with encoders.
+It is a nice (and time-consuming for me) robot which uses SLAM (ROS) with a RPLidar to navigate in its environment. It is powered by ROS running on a Raspberry Pi 4B and an Arduino that controls two motors with encoders.
 
 
 In its current state the robot can use SLAM (gmapping) to create a map of its surroundings (using the RPLidar to detect wall and obstacles) and localize itself within the map. It can plan a path to a given goal and drive to it avoiding obstacles.
