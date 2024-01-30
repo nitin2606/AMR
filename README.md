@@ -1,6 +1,8 @@
 
 
 # Autonomous Mobile Robot project
+[**Link to Robot in Action**](https://www.youtube.com/watch?v=your-robot-video-id)
+
 ![Robot Image](AMR2.jpeg)
 
 It is a nice (and time-consuming for me) robot which uses SLAM (ROS) with a RPLidar to navigate in its environment. It is powered by ROS running on a Raspberry Pi 4B and an Arduino that controls two motors with encoders.
